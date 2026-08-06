@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -49,10 +50,12 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
