@@ -28,6 +28,7 @@
 | [0012-integer-to-roman](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0367-valid-perfect-square](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
