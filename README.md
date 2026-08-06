@@ -26,6 +26,7 @@
 | [0009-palindrome-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
