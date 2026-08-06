@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0611-valid-triangle-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,17 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0611-valid-triangle-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
