@@ -12,6 +12,7 @@
 | [0196-delete-duplicate-emails](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Array
 |  |
 | ------- |
