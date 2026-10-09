@@ -21,6 +21,7 @@
 | [0627-swap-sex-of-employees](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shaina240506/LeetCode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shaina240506/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/shaina240506/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |
