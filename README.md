@@ -45,6 +45,7 @@
 | [0050-powx-n](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 ## String
