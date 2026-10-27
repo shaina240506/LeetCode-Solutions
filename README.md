@@ -54,6 +54,7 @@
 | [0012-integer-to-roman](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Trie
 |  |
@@ -73,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
