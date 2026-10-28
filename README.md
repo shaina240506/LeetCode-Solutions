@@ -48,6 +48,7 @@
 | [0507-perfect-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/shaina240506/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0014-longest-common-prefix](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/shaina240506/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/shaina240506/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1903-largest-odd-number-in-string](https://github.com/shaina240506/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
